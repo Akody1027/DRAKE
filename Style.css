@@ -1,0 +1,40 @@
+﻿html{
+    background-color:black;
+}
+.video1{  
+    text-align:center;
+    z-index:-1;
+}
+h1{
+    font-size:80px;
+    color:royalblue;
+    position:relative;
+    text-align:center;
+}
+h2{
+    color:royalblue;
+    font-size:40px;
+    text-align:center;
+    width:1100px;
+    margin-left:60px;
+}
+.pic1{
+    text-align:center;
+    z-index:-1;
+}
+p{
+    color:royalblue;
+    font-size:40px;
+    text-align:center;
+    width:1000px;
+    margin-left:110px;
+}
+footer{
+    color:red;
+    text-align:center;
+}a{
+     text-align:center;
+     color:red;
+     font-size:30px;
+     margin-left:450px;
+ }
