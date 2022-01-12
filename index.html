@@ -11,6 +11,35 @@
     <div class="pic1">
         <img src="photos/drakenow.jpg" width="300px" />
     </div>
+    
+    
+    <div class="button">
+    <button class="colorbtn">CHANGE BACKGROUND COLOR</button>
+</div>
+<script type="text/javascript">
+
+    let color = ["#ff3300","#0066ff","#66ff33","#000000","#990099","#0000ff","#ff0066","#66ffcc"];
+
+    let i = 0;
+    document.querySelector("button").addEventListener("click",
+    function(){
+        i = i < color.length ? ++i : 0;
+        document.querySelector("body").style.background = color[i] })
+
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <br />
 
     <div class="link">
